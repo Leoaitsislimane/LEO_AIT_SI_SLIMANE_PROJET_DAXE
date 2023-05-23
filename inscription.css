@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+
+
+html body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+
+h1 {
+    color: dimgray;
+    font-family: "Climate Crisis";
+    width: 118px;
+    border: 1px solid beige;
+    background-color: rgb(204, 155, 95);
+    padding: 16px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
